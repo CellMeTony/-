@@ -9,6 +9,8 @@
 /* Begin PBXBuildFile section */
 		0395288884E16684BBD841CB /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 57788AFB9BB41D81638BB917 /* libPods.a */; };
 		1423521D1C9995E400FECA1C /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 1423521C1C9995E400FECA1C /* Icon.png */; };
+		1466749E1C9AEAB200F6E9CB /* YYYYYYViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1466749C1C9AEAB200F6E9CB /* YYYYYYViewController.m */; };
+		1466749F1C9AEAB200F6E9CB /* YYYYYYViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1466749D1C9AEAB200F6E9CB /* YYYYYYViewController.xib */; };
 		85D5CB4B1C98ECCA00F286E4 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 85D5CB4A1C98ECCA00F286E4 /* main.m */; };
 		85D5CB4E1C98ECCA00F286E4 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 85D5CB4D1C98ECCA00F286E4 /* AppDelegate.m */; };
 		85D5CB511C98ECCA00F286E4 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 85D5CB501C98ECCA00F286E4 /* ViewController.m */; };
@@ -20,6 +22,9 @@
 /* Begin PBXFileReference section */
 		0BD5C0124902717697BCA865 /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
 		1423521C1C9995E400FECA1C /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
+		1466749B1C9AEAB200F6E9CB /* YYYYYYViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YYYYYYViewController.h; sourceTree = "<group>"; };
+		1466749C1C9AEAB200F6E9CB /* YYYYYYViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YYYYYYViewController.m; sourceTree = "<group>"; };
+		1466749D1C9AEAB200F6E9CB /* YYYYYYViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = YYYYYYViewController.xib; sourceTree = "<group>"; };
 		57788AFB9BB41D81638BB917 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		85CD43371C9904600060ED50 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
 		85D5CB461C98ECCA00F286E4 /* AFDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AFDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -73,6 +78,9 @@
 				85D5CB4D1C98ECCA00F286E4 /* AppDelegate.m */,
 				85D5CB4F1C98ECCA00F286E4 /* ViewController.h */,
 				85D5CB501C98ECCA00F286E4 /* ViewController.m */,
+				1466749B1C9AEAB200F6E9CB /* YYYYYYViewController.h */,
+				1466749C1C9AEAB200F6E9CB /* YYYYYYViewController.m */,
+				1466749D1C9AEAB200F6E9CB /* YYYYYYViewController.xib */,
 				85D5CB521C98ECCA00F286E4 /* Main.storyboard */,
 				85D5CB551C98ECCA00F286E4 /* Assets.xcassets */,
 				85D5CB571C98ECCA00F286E4 /* LaunchScreen.storyboard */,
@@ -168,6 +176,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1466749F1C9AEAB200F6E9CB /* YYYYYYViewController.xib in Resources */,
 				85D5CB591C98ECCA00F286E4 /* LaunchScreen.storyboard in Resources */,
 				1423521D1C9995E400FECA1C /* Icon.png in Resources */,
 				85D5CB561C98ECCA00F286E4 /* Assets.xcassets in Resources */,
@@ -232,6 +241,7 @@
 			files = (
 				85D5CB511C98ECCA00F286E4 /* ViewController.m in Sources */,
 				85D5CB4E1C98ECCA00F286E4 /* AppDelegate.m in Sources */,
+				1466749E1C9AEAB200F6E9CB /* YYYYYYViewController.m in Sources */,
 				85D5CB4B1C98ECCA00F286E4 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
