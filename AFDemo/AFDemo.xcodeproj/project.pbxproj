@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		0395288884E16684BBD841CB /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 57788AFB9BB41D81638BB917 /* libPods.a */; };
 		1423521D1C9995E400FECA1C /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 1423521C1C9995E400FECA1C /* Icon.png */; };
-		85CD43381C9904600060ED50 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 85CD43371C9904600060ED50 /* Icon.png */; };
 		85D5CB4B1C98ECCA00F286E4 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 85D5CB4A1C98ECCA00F286E4 /* main.m */; };
 		85D5CB4E1C98ECCA00F286E4 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 85D5CB4D1C98ECCA00F286E4 /* AppDelegate.m */; };
 		85D5CB511C98ECCA00F286E4 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 85D5CB501C98ECCA00F286E4 /* ViewController.m */; };
@@ -173,7 +172,6 @@
 				1423521D1C9995E400FECA1C /* Icon.png in Resources */,
 				85D5CB561C98ECCA00F286E4 /* Assets.xcassets in Resources */,
 				85D5CB541C98ECCA00F286E4 /* Main.storyboard in Resources */,
-				85CD43381C9904600060ED50 /* Icon.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
